@@ -21,21 +21,21 @@ Created a virtualized enterprise network in Cisco Packet Tracer. Goals include s
 
 <p align="center">
 Phase 1: Created a 3 Tier Architecture<br/>
-  -Segmented network into VLANS, enabled trunking and layer 3 forwarding on Core Switch to allow inter-VLAN routing
+- Segmented network into VLANS, enabled trunking and layer 3 forwarding on Core Switch to allow inter-VLAN routing
 <img src="https://imgur.com/gZvmkDq.png" height="80%" width="80%" alt="ent_network"/>
 <img src="https://imgur.com/YdjEjCl.png" height="80%" width="80%" alt="ent_network"/>
 <br />
 <br />
 <br />
 Phase 2: DHCP Server<br/>
-  -DHCP address pools set, Server successfully assigning addresses to devices on VLANs 10 and 20
+- DHCP address pools set, Server successfully assigning addresses to devices on VLANs 10 and 20
 <img src="https://imgur.com/ny9pnYc.png" height="80%" width="80%" alt="ent_network"/>
 <img src="https://imgur.com/sQKEJEy.png" height="80%" width="80%" alt="ent_network"/>
 <br />
 <br />
 <br />
 Phase 3: Wireless Networking<br/>
-  -Added Wifi DHCP pool on VLAN 200
+- Added Wifi DHCP pool on VLAN 200
 <img src="https://imgur.com/X4ijttf.png" height="80%" width="80%" alt="ent_network"/>
 <br />
 <br />
@@ -50,12 +50,14 @@ Phase 3: Wireless Networking<br/>
 <br />
 <br />
 Phase 4: NAT<br/>
-  -Connected the router to off-site servers through the internet, NAT will need to be configured
+- Connected the router to off-site servers through the internet, NAT will need to be configured
 <img src="https://imgur.com/FOYiUOb.png" height="80%" width="80%" alt="ent_network"/>
 <br />
 <br />
-- Dynamic routing (OSPF) is enabled on multilayer switch and router, NAT is configured on router
+- Dynamic routing (OSPF) is enabled on multilayer switch and router
 <img src="https://imgur.com/gHhnbzL.png" height="80%" width="80%" alt="ent_network"/>
+<br />
+- NAT is configured on router
 <img src="https://imgur.com/lM3nW08.png" height="80%" width="80%" alt="ent_network"/>
 <br />
 <br />
