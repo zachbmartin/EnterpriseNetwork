@@ -1,6 +1,6 @@
 # Enterprise Network
 <h2>Description</h2>
-Created a virtualized enterprise network in Cisco Packet Tracer (in progress)
+Created a virtualized enterprise network in Cisco Packet Tracer. Goals include segmenting the network into VLANs, creating a DHCP server, establishing wireless connectivity, and configuring NAT for public networks.
 <br />
 
 
