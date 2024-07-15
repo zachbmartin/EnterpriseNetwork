@@ -1,6 +1,6 @@
 # Enterprise Network
 <h2>Description</h2>
-Created a virtualized enterprise network in Cisco Packet Tracer. Goals include segmenting the network into VLANs, creating a DHCP server, establishing wireless connectivity, and configuring NAT for public networks.
+In this lab, I created a virtualized enterprise network in Cisco Packet Tracer. Project goals includes segmenting the network into VLANs, configuring a DHCP server, establishing wireless connectivity, and configuring NAT.
 <br />
 
 
@@ -21,7 +21,7 @@ Created a virtualized enterprise network in Cisco Packet Tracer. Goals include s
 
 <p align="center">
 Phase 1: Created a 3 Tier Architecture<br/>
-- Segmented network into VLANS, enabled trunking and layer 3 forwarding on Core Switch to allow inter-VLAN routing
+- Segmented network into VLANS, enabled trunking & layer 3 forwarding on Core Switch to allow inter-VLAN routing
 <img src="https://imgur.com/gZvmkDq.png" height="80%" width="80%" alt="ent_network"/>
 <img src="https://imgur.com/YdjEjCl.png" height="80%" width="80%" alt="ent_network"/>
 <br />
