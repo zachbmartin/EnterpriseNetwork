@@ -1,6 +1,6 @@
 # Enterprise Network
 <h2>Description</h2>
-In this lab, I created a virtualized enterprise network in Cisco Packet Tracer. Project goals includes segmenting the network into VLANs, configuring a DHCP server, establishing wireless connectivity, and configuring NAT.
+In this lab, I created a virtualized enterprise network in Cisco Packet Tracer. Project goals: segment the network into VLANs, configure DHCP server, establish wireless connectivity, and configure NAT.
 <br />
 
 
