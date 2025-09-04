@@ -32,7 +32,7 @@ In this lab, I created a virtualized enterprise network in Cisco Packet Tracer.
 - Segmented network into VLANs  
 - Enabled trunking & Layer 3 forwarding on the Core Switch to allow inter-VLAN routing  
 
-![Phase 1 Topology](https://i.imgur.com/yourPhase1Image.png)
+![Phase 1 Topology](https://imgur.com/a/phase-1-HNdeFJi)
 
 ---
 
