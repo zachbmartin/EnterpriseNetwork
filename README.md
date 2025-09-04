@@ -22,7 +22,7 @@ In this lab, I created a virtualized enterprise network in Cisco Packet Tracer. 
 <p align="center">
 Phase 1: Created a 3 Tier Architecture<br/>
 - Segmented network into VLANS, enabled trunking & layer 3 forwarding on Core Switch to allow inter-VLAN routing
-<img src="[https://imgur.com/gZvmkDq.png" height="80%" width="80%" alt="ent_network](https://imgur.com/a/HNdeFJi)"/>
+<img src="https://imgur.com/a/phase-1-HNdeFJi" height="80%" width="80%" alt="ent_network"/>
 <br />
 <br />
 <br />
