@@ -40,8 +40,8 @@ In this lab, I created a virtualized enterprise network in Cisco Packet Tracer.
 - Configured DHCP address pools  
 - Server successfully assigns addresses to devices on VLANs 10 and 20  
 
-![DHCP Topology](https://i.imgur.com/ny9pnYc.png)  
-![DHCP Device Assignment](https://i.imgur.com/sQKEJEy.png)
+![DHCP server assigning an IP address for VLAN 10](https://i.imgur.com/LUxjTJa.png)  
+![DHCP server assigning an IP address for VLAN 10](https://i.imgur.com/gADjas0.png)
 
 ---
 
