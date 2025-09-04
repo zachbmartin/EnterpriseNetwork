@@ -50,7 +50,7 @@ In this lab, I created a virtualized enterprise network in Cisco Packet Tracer.
 - Wireless device (tablet) successfully connects to the access point  
 
 ![AP connected to WLAN](https://i.imgur.com/dloEEPy.png)
-![Tablet connects to AP](https://i.imgur.com/dloEEPy.png)
+![Tablet connects to AP](https://i.imgur.com/ouoqkuT.png)
 ---
 
 ### Phase 4: NAT & Internet Connectivity
