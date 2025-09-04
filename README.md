@@ -49,8 +49,8 @@ In this lab, I created a virtualized enterprise network in Cisco Packet Tracer.
 - Access point configured and connected to WLAN `MARTIN-SECURE`  
 - Wireless device (tablet) successfully connects to the access point  
 
-![Wireless Networking](https://i.imgur.com/X4ijttf.png)
-
+![AP connected to WLAN](https://i.imgur.com/dloEEPy.png)
+![Tablet connects to AP](https://i.imgur.com/dloEEPy.png)
 ---
 
 ### Phase 4: NAT & Internet Connectivity
@@ -58,6 +58,5 @@ In this lab, I created a virtualized enterprise network in Cisco Packet Tracer.
 - NAT and OSPF configured on the router  
 - Connectivity is established between local devices and public-facing servers  
 
-![NAT Configuration](https://i.imgur.com/FOYiUOb.png)  
-![Internet Connectivity](https://i.imgur.com/8zv33QD.png)
+![Internet Connectivity](https://i.imgur.com/Nlxbmkd.png)
 
